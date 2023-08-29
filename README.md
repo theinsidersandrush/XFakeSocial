@@ -1,5 +1,5 @@
 # XFakeSocial: Spoofin' da X
-![Letter killed a bird](https://github.com/theinsidersandrush/XFakeSocial/assets/87752859/205e636d-c629-458b-9309-056c455acb08)
+![Letter killed a bird](https://raw.githubusercontent.com/theinsidersandrush/XFakeSocial/main/Letter%20killed%20a%20bird.png)
 The X app but actually not. __Not affiliated with X Corp, Elon Musk or the app itself.__
 
 ## What is this?
